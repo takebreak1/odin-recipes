@@ -1,2 +1,2 @@
 # odin-recipes
-Indian Recipes 
+:my first html project
